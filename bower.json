@@ -1,0 +1,19 @@
+{
+  "name": "bedroom-products",
+  "version": "0.0.0",
+  "homepage": "https://github.com/copasetickid/bedroom-products",
+  "authors": [
+    "Rushaine McBean <rushaine.mcbean@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0"
+  }
+}
