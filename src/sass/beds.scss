@@ -1,0 +1,27 @@
+.bed-containers {
+  width: 100%;
+
+  .bed-column {
+    width: 25%;
+    display: inline-block;
+    padding: 0px 5px;
+  }
+}
+
+.btn {
+  display: block;
+  font-size: 1.1em;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 10px 15px;
+  margin: 20px auto;
+  color: white;
+  background-color: #555;
+  background: -webkit-linear-gradient(#888, #555);
+  background: linear-gradient(#888, #555);
+  border: 0 none;
+  border-radius: 3px;
+  text-shadow: 0 -1px 0 #000;
+  box-shadow: 0 1px 0 #666, 0 5px 0 #444, 0 6px 6px rgba(0,0,0,0.6);
+  cursor: pointer;
+}
